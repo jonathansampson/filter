@@ -18,3 +18,4 @@ bing.com##li[id*="copilotsearch"]
 bing.com##.copans_container
 
 duckduckgo.com##li:first-child:has([data-testid="duckassist-answer-content"])
+duckduckgo.com###react-duckbar li:has-text(Search Assist)
