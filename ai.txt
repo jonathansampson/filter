@@ -16,3 +16,5 @@ bing.com###sb_form+a[href^="/chat"]
 bing.com##a.b_phead_chat_link
 bing.com##li[id*="copilotsearch"]
 bing.com##.copans_container
+
+duckduckgo.com##li:first-child:has([data-testid="duckassist-answer-content"])
