@@ -19,3 +19,8 @@ bing.com##.copans_container
 
 duckduckgo.com##li:first-child:has([data-testid="duckassist-answer-content"])
 duckduckgo.com###react-duckbar li:has-text(Search Assist)
+
+baidu.com###csaitab
+baidu.com###s_tab_inner > a[href*="chat.baidu.com"]
+baidu.com###content_left > .c-group-wrapper:has([tpl="ai_ask"])
+baidu.com###con-ar > [tpl="ai_accompanies"]
